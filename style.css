@@ -163,7 +163,7 @@ ul.navbar li a:hover{
     position: relative;
 }
 .cards::after{
-    content: url(/home/durga/Desktop/fylo-dark-theme-landing-page-master/images/bg-quotes.png);
+    content: url(/images/bg-quotes.png);
     position: absolute;
     top: 90px;
     left: -10px;
@@ -191,7 +191,7 @@ ul.navbar li a:hover{
 .profile1{
     width: 50px;
     height: 50px;
-    background: url(/home/durga/Desktop/fylo-dark-theme-landing-page-master/images/profile-1.jpg);
+    background: url(images/profile-1.jpg);
     background-size: cover;
     background-position: center;
     border-radius: 15px;
@@ -203,7 +203,7 @@ ul.navbar li a:hover{
 .profile2{
     width: 50px;
     height: 50px;
-    background: url(/home/durga/Desktop/fylo-dark-theme-landing-page-master/images/profile-2.jpg);
+    background: url(images/profile-2.jpg);
     background-size: cover;
     background-position: center;
     border-radius: 15px;
@@ -211,7 +211,7 @@ ul.navbar li a:hover{
 .profile3{
     width: 50px;
     height: 50px;
-    background: url(/home/durga/Desktop/fylo-dark-theme-landing-page-master/images/profile-3.jpg);
+    background: url(images/profile-3.jpg);
     background-size: cover;
     background-position: center;
     border-radius: 15px;
